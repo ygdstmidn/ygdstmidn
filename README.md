@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+この名前は適当にキーボードをたたいて作った名前です．
+以下，Copilotに考えてもらった名前の意味です．
+
+Yesterday, gazing at the distant stars, the mysterious interstellar dance never ceased.
+
+Yonder, graceful dandelions sway in the twilight, their milky illumination dancing near the stream.
