@@ -18,5 +18,4 @@ Yesterday, gazing at the distant stars, the mysterious interstellar dance never 
 
 Yonder, graceful dandelions sway in the twilight, their milky illumination dancing near the stream.
 
-![Languages over Last 30 Days](https://wakatime.com/share/@10698904-6ae4-43a1-b9f3-d5da390df371/1e4f9cd0-5a57-4b13-b4a8-8948f5ffbd68.svg)
-![Coding Activity over Last 30 Days](https://wakatime.com/share/@10698904-6ae4-43a1-b9f3-d5da390df371/f1fa7d76-e78c-4f16-a2a0-337678fc7d48.svg)
+<img src="https://wakatime.com/share/@10698904-6ae4-43a1-b9f3-d5da390df371/1e4f9cd0-5a57-4b13-b4a8-8948f5ffbd68.svg" width="300px">&emsp;<img src="https://wakatime.com/share/@10698904-6ae4-43a1-b9f3-d5da390df371/f1fa7d76-e78c-4f16-a2a0-337678fc7d48.svg" width="300px">
